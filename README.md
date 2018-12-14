@@ -1,2 +1,9 @@
-# eto-scraping
-A scraping tool
+esp
+=====
+
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
